@@ -1,0 +1,5 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"/home/user/Projects/FirstGame/Content/crosshairs.png","/home/user/Projects/FirstGame/Content/bin/DesktopGL/Content/crosshairs.xnb","TextureProcessor","Texture2DContent",1892,10085,0.1971176
+"/home/user/Projects/FirstGame/Content/galleryFont.spritefont","/home/user/Projects/FirstGame/Content/bin/DesktopGL/Content/galleryFont.xnb","FontDescriptionProcessor","SpriteFontContent",1086,70687,0.3728582
+"/home/user/Projects/FirstGame/Content/sky.png","/home/user/Projects/FirstGame/Content/bin/DesktopGL/Content/sky.xnb","TextureProcessor","Texture2DContent",1079607,9216085,0.4279177
+"/home/user/Projects/FirstGame/Content/target.png","/home/user/Projects/FirstGame/Content/bin/DesktopGL/Content/target.xnb","TextureProcessor","Texture2DContent",3395,32485,0.0030274
