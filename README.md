@@ -25,9 +25,6 @@ Welcome to **TargetPractice2D**! This is a simple 2D game built with MonoGame wh
 ## Contributing 🤝
 Feel free to fork the repository and submit pull requests. Your contributions are always welcome!
 
-## License 📜
-This project is licensed under the MIT License.
-
 ---
 
 Happy Shooting! 🎯✨
