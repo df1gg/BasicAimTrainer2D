@@ -12,7 +12,7 @@ Welcome to **TargetPractice2D**! This is a simple 2D game built with MonoGame wh
 ## Installation 💾
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/TargetPractice2D.git
+    git clone https://github.com/df1gg/TargetPractice2D.git
     ```
 2. Open the project in your preferred C# IDE (e.g., Visual Studio).
 3. Build and run the project.
